@@ -3,363 +3,363 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://ilijabogunovic.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://ilijabogunovic.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://ilijabogunovic.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://ilijabogunovic.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://ilijabogunovic.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://ilijabogunovic.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://ilijabogunovic.github.io/post/</loc>
     <lastmod>2019-08-25T18:18:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/my-article-name/</loc>
+    <loc>https://ilijabogunovic.github.io/post/my-article-name/</loc>
     <lastmod>2019-08-25T18:18:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/i.-bogunovic/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/j.-scarlett/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/overlapping_multi_bandit_best_arm_identification/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/overlapping_multi_bandit_best_arm_identification/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/v.-cevher/</loc>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/v.-cevher/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://ilijabogunovic.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://ilijabogunovic.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://ilijabogunovic.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/7/</loc>
+    <loc>https://ilijabogunovic.github.io/publication_types/7/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/robust_and_adaptive_decision_making_epfl/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/robust_and_adaptive_decision_making_epfl/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/adversarially_robust_optimization_with_gaussian_processes/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/adversarially_robust_optimization_with_gaussian_processes/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/s.-jegelka/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/s.-jegelka/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-zhao/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/p.-t.-y.-rolland/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/j.-zhao/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/robust_maximization_of_non_submodular_objectives/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/p.-t.-y.-rolland/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/robust_maximization_of_non_submodular_objectives/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/a.-norouzi-fard/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/j.-tarnawski/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/a.-norouzi-fard/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/s.-mitrovic/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/j.-tarnawski/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/s.-mitrovic/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/a.-bazzi/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/a.-bazzi/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/a.-krause/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/m.-el-halabi/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/truncated_variance_reduction/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/y.-p.-hsieh/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/m.-el-halabi/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/time_varying_gaussian_process_bandit_optimization-/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/truncated_variance_reduction/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/y.-p.-hsieh/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/time_varying_gaussian_process_bandit_optimization-/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>https://ilijabogunovic.github.io/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://ilijabogunovic.github.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://ilijabogunovic.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://ilijabogunovic.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://ilijabogunovic.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://ilijabogunovic.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>https://ilijabogunovic.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://ilijabogunovic.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://ilijabogunovic.github.io/publication_types/2/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/b.-gozcu/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/b.-gozcu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/l.-baldassarre/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/l.-baldassarre/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/learning_based_compressive_subsampling/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/y.-h.-li/</loc>
+    <loc>https://ilijabogunovic.github.io/tags/source-themes/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/active_learning_of_self-concordant_like_multi-index_functions/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/y.-h.-li/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/active_learning_of_self-concordant_like_multi-index_functions/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-haupt/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/j.-haupt/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/a.-karbasi/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/a.-karbasi/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/a.-singla/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/a.-singla/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/g.-bartok/</loc>
+    <loc>https://ilijabogunovic.github.io/authors/g.-bartok/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/near_optimally_teaching_the_crowd_to_classify/</loc>
+    <loc>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://ilijabogunovic.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://ilijabogunovic.github.io/courses/</loc>
   </url>
   
   <url>
-    <loc>/news/my-article-name/</loc>
+    <loc>https://ilijabogunovic.github.io/news/my-article-name/</loc>
   </url>
   
   <url>
-    <loc>/news/</loc>
+    <loc>https://ilijabogunovic.github.io/news/</loc>
     <priority>0</priority>
   </url>
   

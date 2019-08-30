@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Baldassarre on Ilija Bogunovic</title>
-    <link>/authors/l.-baldassarre/</link>
+    <link>https://ilijabogunovic.github.io/authors/l.-baldassarre/</link>
     <description>Recent content in L. Baldassarre on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/l.-baldassarre/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/l.-baldassarre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning-Based Compressive Subsampling</title>
-      <link>/publication/learning_based_compressive_subsampling/</link>
+      <link>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/learning_based_compressive_subsampling/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</guid>
       <description></description>
     </item>
     

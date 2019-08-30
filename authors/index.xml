@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Ilija Bogunovic</title>
-    <link>/authors/</link>
+    <link>https://ilijabogunovic.github.io/authors/</link>
     <description>Recent content in Authors on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I. Bogunovic</title>
-      <link>/authors/i.-bogunovic/</link>
+      <link>https://ilijabogunovic.github.io/authors/i.-bogunovic/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/i.-bogunovic/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/i.-bogunovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Scarlett</title>
-      <link>/authors/j.-scarlett/</link>
+      <link>https://ilijabogunovic.github.io/authors/j.-scarlett/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/j.-scarlett/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/j.-scarlett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Cevher</title>
-      <link>/authors/v.-cevher/</link>
+      <link>https://ilijabogunovic.github.io/authors/v.-cevher/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/v.-cevher/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/v.-cevher/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://ilijabogunovic.github.io/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher at the ETH &lt;a href=&#34;https://las.inf.ethz.ch/&#34;&gt;Learning &amp;amp; Adaptive Systems &lt;/a&gt; group led by Prof. &lt;a href=&#34;https://las.inf.ethz.ch/krausea&#34;&gt;Andreas Krause&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!-- My research focus is on machine learning algorithms that are theoretically well-founded, robust and practically applicable. I am particularly interested in problems in sequential decision making and topics such as bandits, Bayesian optimization, submodular optimization, and reinforcement learning. --&gt;
@@ -58,154 +58,154 @@ I have also completed research internships at MIT (in the group of Prof. &lt;a h
     
     <item>
       <title>S. Jegelka</title>
-      <link>/authors/s.-jegelka/</link>
+      <link>https://ilijabogunovic.github.io/authors/s.-jegelka/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/s.-jegelka/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/s.-jegelka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Zhao*</title>
-      <link>/authors/j.-zhao/</link>
+      <link>https://ilijabogunovic.github.io/authors/j.-zhao/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/j.-zhao/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/j.-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. T. Y. Rolland</title>
-      <link>/authors/p.-t.-y.-rolland/</link>
+      <link>https://ilijabogunovic.github.io/authors/p.-t.-y.-rolland/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/p.-t.-y.-rolland/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/p.-t.-y.-rolland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Norouzi Fard</title>
-      <link>/authors/a.-norouzi-fard/</link>
+      <link>https://ilijabogunovic.github.io/authors/a.-norouzi-fard/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/a.-norouzi-fard/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/a.-norouzi-fard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Tarnawski</title>
-      <link>/authors/j.-tarnawski/</link>
+      <link>https://ilijabogunovic.github.io/authors/j.-tarnawski/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/j.-tarnawski/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/j.-tarnawski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Mitrovic</title>
-      <link>/authors/s.-mitrovic/</link>
+      <link>https://ilijabogunovic.github.io/authors/s.-mitrovic/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/s.-mitrovic/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/s.-mitrovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Bazzi</title>
-      <link>/authors/a.-bazzi/</link>
+      <link>https://ilijabogunovic.github.io/authors/a.-bazzi/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/a.-bazzi/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/a.-bazzi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Krause</title>
-      <link>/authors/a.-krause/</link>
+      <link>https://ilijabogunovic.github.io/authors/a.-krause/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/a.-krause/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/a.-krause/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. El Halabi</title>
-      <link>/authors/m.-el-halabi/</link>
+      <link>https://ilijabogunovic.github.io/authors/m.-el-halabi/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/m.-el-halabi/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/m.-el-halabi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y.-P. Hsieh</title>
-      <link>/authors/y.-p.-hsieh/</link>
+      <link>https://ilijabogunovic.github.io/authors/y.-p.-hsieh/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/y.-p.-hsieh/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/y.-p.-hsieh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Gözcü</title>
-      <link>/authors/b.-gozcu/</link>
+      <link>https://ilijabogunovic.github.io/authors/b.-gozcu/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/b.-gozcu/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/b.-gozcu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Baldassarre</title>
-      <link>/authors/l.-baldassarre/</link>
+      <link>https://ilijabogunovic.github.io/authors/l.-baldassarre/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/l.-baldassarre/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/l.-baldassarre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y.-H. Li</title>
-      <link>/authors/y.-h.-li/</link>
+      <link>https://ilijabogunovic.github.io/authors/y.-h.-li/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/y.-h.-li/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/y.-h.-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Haupt</title>
-      <link>/authors/j.-haupt/</link>
+      <link>https://ilijabogunovic.github.io/authors/j.-haupt/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/j.-haupt/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/j.-haupt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Karbasi</title>
-      <link>/authors/a.-karbasi/</link>
+      <link>https://ilijabogunovic.github.io/authors/a.-karbasi/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/authors/a.-karbasi/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/a.-karbasi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Singla</title>
-      <link>/authors/a.-singla/</link>
+      <link>https://ilijabogunovic.github.io/authors/a.-singla/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/authors/a.-singla/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/a.-singla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Bartok</title>
-      <link>/authors/g.-bartok/</link>
+      <link>https://ilijabogunovic.github.io/authors/g.-bartok/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/authors/g.-bartok/</guid>
+      <guid>https://ilijabogunovic.github.io/authors/g.-bartok/</guid>
       <description></description>
     </item>
     

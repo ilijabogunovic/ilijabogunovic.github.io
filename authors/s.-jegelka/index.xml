@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Jegelka on Ilija Bogunovic</title>
-    <link>/authors/s.-jegelka/</link>
+    <link>https://ilijabogunovic.github.io/authors/s.-jegelka/</link>
     <description>Recent content in S. Jegelka on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/s.-jegelka/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/s.-jegelka/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adversarially Robust Optimization with Gaussian Processes</title>
-      <link>/publication/adversarially_robust_optimization_with_gaussian_processes/</link>
+      <link>https://ilijabogunovic.github.io/publication/adversarially_robust_optimization_with_gaussian_processes/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adversarially_robust_optimization_with_gaussian_processes/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/adversarially_robust_optimization_with_gaussian_processes/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Krause on Ilija Bogunovic</title>
-    <link>/authors/a.-krause/</link>
+    <link>https://ilijabogunovic.github.io/authors/a.-krause/</link>
     <description>Recent content in A. Krause on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/a.-krause/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/a.-krause/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Truncated Variance Reduction: A Unified Approach to Bayesian Optimization and Level-Set Estimation</title>
-      <link>/publication/truncated_variance_reduction/</link>
+      <link>https://ilijabogunovic.github.io/publication/truncated_variance_reduction/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/truncated_variance_reduction/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/truncated_variance_reduction/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,10 +37,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Near-Optimally Teaching the Crowd to Classify</title>
-      <link>/publication/near_optimally_teaching_the_crowd_to_classify/</link>
+      <link>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/near_optimally_teaching_the_crowd_to_classify/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ilija Bogunovic</title>
-    <link>/</link>
+    <link>https://ilijabogunovic.github.io/</link>
     <description>Recent content on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://ilijabogunovic.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example1/</guid>
+      <guid>https://ilijabogunovic.github.io/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://ilijabogunovic.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example2/</guid>
+      <guid>https://ilijabogunovic.github.io/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://ilijabogunovic.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>https://ilijabogunovic.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -109,19 +109,19 @@
     
     <item>
       <title>My Article Name</title>
-      <link>/post/my-article-name/</link>
+      <link>https://ilijabogunovic.github.io/post/my-article-name/</link>
       <pubDate>Sun, 25 Aug 2019 18:18:56 +0200</pubDate>
       
-      <guid>/post/my-article-name/</guid>
+      <guid>https://ilijabogunovic.github.io/post/my-article-name/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overlapping Multi-Bandit Best Arm Identification</title>
-      <link>/publication/overlapping_multi_bandit_best_arm_identification/</link>
+      <link>https://ilijabogunovic.github.io/publication/overlapping_multi_bandit_best_arm_identification/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/overlapping_multi_bandit_best_arm_identification/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/overlapping_multi_bandit_best_arm_identification/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -142,10 +142,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://ilijabogunovic.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>https://ilijabogunovic.github.io/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -205,10 +205,10 @@ rm Untitled.md
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://ilijabogunovic.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example/</guid>
+      <guid>https://ilijabogunovic.github.io/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -387,10 +387,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Robust Adaptive Decision Making: Bayesian Optimization and Beyond</title>
-      <link>/publication/robust_and_adaptive_decision_making_epfl/</link>
+      <link>https://ilijabogunovic.github.io/publication/robust_and_adaptive_decision_making_epfl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/robust_and_adaptive_decision_making_epfl/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/robust_and_adaptive_decision_making_epfl/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -411,10 +411,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Adversarially Robust Optimization with Gaussian Processes</title>
-      <link>/publication/adversarially_robust_optimization_with_gaussian_processes/</link>
+      <link>https://ilijabogunovic.github.io/publication/adversarially_robust_optimization_with_gaussian_processes/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adversarially_robust_optimization_with_gaussian_processes/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/adversarially_robust_optimization_with_gaussian_processes/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -435,10 +435,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>High Dimensional Bayesian Optimization via Additive Models with Overlapping Groups</title>
-      <link>/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</link>
+      <link>https://ilijabogunovic.github.io/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/high_dimensional_bayesian_optimization_via_additive_models_with_overlapping_groups/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -459,10 +459,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Robust Maximization of Non-Submodular Objectives</title>
-      <link>/publication/robust_maximization_of_non_submodular_objectives/</link>
+      <link>https://ilijabogunovic.github.io/publication/robust_maximization_of_non_submodular_objectives/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/robust_maximization_of_non_submodular_objectives/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/robust_maximization_of_non_submodular_objectives/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -483,10 +483,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>A Distributed Algorithm for Partitioned Robust Submodular Maximization</title>
-      <link>/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</link>
+      <link>https://ilijabogunovic.github.io/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -507,10 +507,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Streaming Robust Submodular Maximization: A Partitioned Thresholding Approach</title>
-      <link>/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</link>
+      <link>https://ilijabogunovic.github.io/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -531,10 +531,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Robust Submodular Maximization: A Non-Uniform Partitioning Approach</title>
-      <link>/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</link>
+      <link>https://ilijabogunovic.github.io/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -555,10 +555,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Lower Bounds on Regret for Noisy Gaussian Process Bandit Optimization</title>
-      <link>/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</link>
+      <link>https://ilijabogunovic.github.io/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/lower_bounds_on_regret_for_noisy_gaussian_process_bandit_optimization-/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -579,10 +579,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>An Efficient Streaming Algorithm for the Submodular Cover Problem</title>
-      <link>/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</link>
+      <link>https://ilijabogunovic.github.io/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -603,10 +603,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Truncated Variance Reduction: A Unified Approach to Bayesian Optimization and Level-Set Estimation</title>
-      <link>/publication/truncated_variance_reduction/</link>
+      <link>https://ilijabogunovic.github.io/publication/truncated_variance_reduction/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/truncated_variance_reduction/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/truncated_variance_reduction/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -627,10 +627,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Time-Varying Gaussian Process Bandit Optimization</title>
-      <link>/publication/time_varying_gaussian_process_bandit_optimization-/</link>
+      <link>https://ilijabogunovic.github.io/publication/time_varying_gaussian_process_bandit_optimization-/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/time_varying_gaussian_process_bandit_optimization-/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/time_varying_gaussian_process_bandit_optimization-/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -651,19 +651,19 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://ilijabogunovic.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>https://ilijabogunovic.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://ilijabogunovic.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/internal-project/</guid>
+      <guid>https://ilijabogunovic.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -678,10 +678,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://ilijabogunovic.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://ilijabogunovic.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -774,8 +774,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -787,8 +787,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -800,8 +800,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -813,8 +813,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -826,8 +826,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -839,8 +839,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -852,8 +852,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -865,8 +865,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;https://ilijabogunovic.github.io/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -909,19 +909,19 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Learning-Based Compressive Subsampling</title>
-      <link>/publication/learning_based_compressive_subsampling/</link>
+      <link>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/learning_based_compressive_subsampling/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Learning of Self-concordant like Multi-index Functions </title>
-      <link>/publication/active_learning_of_self-concordant_like_multi-index_functions/</link>
+      <link>https://ilijabogunovic.github.io/publication/active_learning_of_self-concordant_like_multi-index_functions/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/active_learning_of_self-concordant_like_multi-index_functions/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/active_learning_of_self-concordant_like_multi-index_functions/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -942,10 +942,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Near-Optimally Teaching the Crowd to Classify</title>
-      <link>/publication/near_optimally_teaching_the_crowd_to_classify/</link>
+      <link>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/near_optimally_teaching_the_crowd_to_classify/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -966,10 +966,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Neko neko ko je daleko.</title>
-      <link>/news/my-article-name/</link>
+      <link>https://ilijabogunovic.github.io/news/my-article-name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/news/my-article-name/</guid>
+      <guid>https://ilijabogunovic.github.io/news/my-article-name/</guid>
       <description></description>
     </item>
     

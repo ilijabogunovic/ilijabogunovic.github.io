@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Mitrovic on Ilija Bogunovic</title>
-    <link>/authors/s.-mitrovic/</link>
+    <link>https://ilijabogunovic.github.io/authors/s.-mitrovic/</link>
     <description>Recent content in S. Mitrovic on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/s.-mitrovic/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/s.-mitrovic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Distributed Algorithm for Partitioned Robust Submodular Maximization</title>
-      <link>/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</link>
+      <link>https://ilijabogunovic.github.io/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/a_distributed_algorithm_for_partitioned_robust_submodular_maximization/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,10 +37,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Streaming Robust Submodular Maximization: A Partitioned Thresholding Approach</title>
-      <link>/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</link>
+      <link>https://ilijabogunovic.github.io/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/streaming_robust_submodular_maximization_a_partitioned_thresholding_approach/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -61,10 +61,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Robust Submodular Maximization: A Non-Uniform Partitioning Approach</title>
-      <link>/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</link>
+      <link>https://ilijabogunovic.github.io/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/robust_submodular_maximization_a_non_uniform_partitioning_approach/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

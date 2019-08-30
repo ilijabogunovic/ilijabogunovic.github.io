@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. Gözcü on Ilija Bogunovic</title>
-    <link>/authors/b.-gozcu/</link>
+    <link>https://ilijabogunovic.github.io/authors/b.-gozcu/</link>
     <description>Recent content in B. Gözcü on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/b.-gozcu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/b.-gozcu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning-Based Compressive Subsampling</title>
-      <link>/publication/learning_based_compressive_subsampling/</link>
+      <link>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/learning_based_compressive_subsampling/</guid>
+      <guid>https://ilijabogunovic.github.io/publication/learning_based_compressive_subsampling/</guid>
       <description></description>
     </item>
     
