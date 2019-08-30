@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bazzi on Ilija Bogunovic</title>
+    <link>/authors/a.-bazzi/</link>
+    <description>Recent content in A. Bazzi on Ilija Bogunovic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/a.-bazzi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Efficient Streaming Algorithm for the Submodular Cover Problem</title>
+      <link>/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an_efficient_streaming_algorithm_for_the_submodular_cover_problem/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
