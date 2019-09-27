@@ -34,6 +34,58 @@
   </url>
   
   <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/m.-kamgarpour/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/no_regret_learning_in_unknown_games-/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/p.g.-sessa/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ilijabogunovic.github.io/post/</loc>
     <lastmod>2019-08-25T18:18:56+02:00</lastmod>
   </url>
@@ -44,24 +96,6 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -69,17 +103,6 @@
   
   <url>
     <loc>https://ilijabogunovic.github.io/publication/overlapping_multi_bandit_best_arm_identification/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -194,12 +217,6 @@
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/a.-bazzi/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
