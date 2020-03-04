@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ilijabogunovic.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>A. Krause</title>
       <link>https://ilijabogunovic.github.io/authors/a.-krause/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/a.-krause/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>I. Bogunovic</title>
       <link>https://ilijabogunovic.github.io/authors/i.-bogunovic/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/i.-bogunovic/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>M. Kamgarpour</title>
       <link>https://ilijabogunovic.github.io/authors/m.-kamgarpour/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/m.-kamgarpour/</guid>
       <description></description>
@@ -41,9 +41,27 @@
     <item>
       <title>P.G. Sessa</title>
       <link>https://ilijabogunovic.github.io/authors/p.g.-sessa/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/p.g.-sessa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Kirschner</title>
+      <link>https://ilijabogunovic.github.io/authors/j.-kirschner/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/authors/j.-kirschner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Jegelka</title>
+      <link>https://ilijabogunovic.github.io/authors/s.-jegelka/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/authors/s.-jegelka/</guid>
       <description></description>
     </item>
     
@@ -81,15 +99,6 @@
 &lt;!-- and co-supervised by Prof. &lt;a href=&#34;http://people.ece.umn.edu/users/jdhaupt/&#34;&gt;Jarvis Haupt&lt;/a&gt;.  --&gt;
 I have also completed research internships at MIT (in the group of Prof. &lt;a href=&#34;https://people.csail.mit.edu/stefje/index.html&#34;&gt;Stefanie Jegelka&lt;/a&gt;) and Twitter. &lt;!-- I received my B.S. degree in electrical engineering from the University of Novi Sad and M.S. degree in computer science from ETH Zurich. --&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>S. Jegelka</title>
-      <link>https://ilijabogunovic.github.io/authors/s.-jegelka/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/authors/s.-jegelka/</guid>
-      <description></description>
     </item>
     
     <item>
