@@ -35,26 +35,48 @@
   
   <url>
     <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://ilijabogunovic.github.io/publication/corruption_tolerant_gaussian_process_optimization/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -72,17 +94,6 @@
     <loc>https://ilijabogunovic.github.io/authors/p.g.-sessa/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -115,12 +126,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/post/my-article-name/</loc>
     <lastmod>2019-08-25T18:18:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
