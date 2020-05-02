@@ -313,13 +313,15 @@ rm Untitled.md
       <guid>https://ilijabogunovic.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher at the ETH &lt;a href=&#34;https://las.inf.ethz.ch/&#34;&gt;Learning &amp;amp; Adaptive Systems &lt;/a&gt; group led by Prof. &lt;a href=&#34;https://las.inf.ethz.ch/krausea&#34;&gt;Andreas Krause&lt;/a&gt;.&lt;/p&gt;
 
-&lt;!-- My research focus is on machine learning algorithms that are theoretically well-founded, robust and practically applicable. I am particularly interested in problems in sequential decision making and topics such as bandits, Bayesian optimization, submodular optimization, and reinforcement learning. --&gt;
+&lt;!-- My research focus is on machine learning algorithms that are theoretically well-founded, robust and practically applicable. I am particularly interested in problems in sequential decision making and topics such as bandits, Bayesian optimization, submodular optimization, 
+and reinforcement learning. --&gt;
 
-&lt;p&gt;My main research interests are in sequential decision making under uncertainty. In particular, I focus on the question of how to design robust decision-making systems. This requires a combination of ideas from different topics such as bandits, Bayesian optimization, reinforcement learning, experimental design, robust optimization.&lt;/p&gt;
+&lt;div style=&#34;text-align: justify;&#34;&gt; My main research interests are in sequential decision making under uncertainty. In particular, I focus on the question of how to design robust decision-making systems. This requires a combination of ideas from different topics such as bandits, Bayesian optimization, reinforcement learning, experimental design, robust optimization.&lt;/div&gt;
 
-&lt;p&gt;I received my PhD degree from &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;Ecole Polytechnique Federale de Lausanne (EPFL)&lt;/a&gt; where I was supervised by Prof. &lt;a href=&#34;https://lions.epfl.ch/volkan.cevher&#34;&gt;Volkan Cevher&lt;/a&gt;.
+&lt;p&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;
+I received my PhD degree from &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;Ecole Polytechnique Federale de Lausanne (EPFL)&lt;/a&gt; where I was supervised by Prof. &lt;a href=&#34;https://lions.epfl.ch/volkan.cevher&#34;&gt;Volkan Cevher&lt;/a&gt;.
 &lt;!-- and co-supervised by Prof. &lt;a href=&#34;http://people.ece.umn.edu/users/jdhaupt/&#34;&gt;Jarvis Haupt&lt;/a&gt;.  --&gt;
-I have also completed research internships at MIT (in the group of Prof. &lt;a href=&#34;https://people.csail.mit.edu/stefje/index.html&#34;&gt;Stefanie Jegelka&lt;/a&gt;) and Twitter. &lt;!-- I received my B.S. degree in electrical engineering from the University of Novi Sad and M.S. degree in computer science from ETH Zurich. --&gt;&lt;/p&gt;
+I have also completed research internships at MIT (in the group of Prof. &lt;a href=&#34;https://people.csail.mit.edu/stefje/index.html&#34;&gt;Stefanie Jegelka&lt;/a&gt;) and Twitter.&lt;/div&gt; &lt;!-- I received my B.S. degree in electrical engineering from the University of Novi Sad and M.S. degree in computer science from ETH Zurich. --&gt;&lt;/p&gt;
 </description>
     </item>
     
