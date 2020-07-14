@@ -34,19 +34,76 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <loc>https://ilijabogunovic.github.io/publication_types/3/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/a.-losalka/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/stochastic_linear_bandits_robust_to_adversarial_attacks/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/learning_to_play_sequential_-games_versus_unknown_opponents/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/m.-kamgarpour/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/p.-g.-sessa/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -54,35 +111,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/corruption_tolerant_gaussian_process_optimization/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/j.-scarlett/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/m.-kamgarpour/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
