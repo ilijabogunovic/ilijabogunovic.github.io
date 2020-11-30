@@ -36,6 +36,30 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Contextual Games: Multi-Agent Learning with Side Information</title>
+      <link>https://ilijabogunovic.github.io/publication/contextual_games/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/contextual_games/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning to Play Sequential Games versus Unknown Opponents</title>
       <link>https://ilijabogunovic.github.io/publication/learning_to_play_sequential_-games_versus_unknown_opponents/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
@@ -65,33 +89,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/publication/corruption_tolerant_gaussian_process_optimization/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-
-
- --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mixed Strategies for Robust Optimization of Unknown Objectives</title>
-      <link>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

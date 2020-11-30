@@ -132,6 +132,30 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Contextual Games: Multi-Agent Learning with Side Information</title>
+      <link>https://ilijabogunovic.github.io/publication/contextual_games/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/contextual_games/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning to Play Sequential Games versus Unknown Opponents</title>
       <link>https://ilijabogunovic.github.io/publication/learning_to_play_sequential_-games_versus_unknown_opponents/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
@@ -161,33 +185,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/publication/corruption_tolerant_gaussian_process_optimization/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-
-
- --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mixed Strategies for Robust Optimization of Unknown Objectives</title>
-      <link>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1117,6 +1114,89 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</guid>
+      <description>
+
+&lt;p&gt;l &amp;mdash;
+title: &amp;ldquo;Mixed Strategies for Robust Optimization of Unknown Objectives&amp;rdquo;
+authors:
+- P.G. Sessa
+- I. Bogunovic
+- M. Kamgarpour
+- A. Krause&lt;/p&gt;
+
+&lt;p&gt;date: &amp;ldquo;2020-03-04&amp;rdquo;
+doi: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;schedule-page-publish-date-not-publication-s-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
+
+&lt;p&gt;publishDate: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+
+&lt;h1 id=&#34;legend-0-uncategorized-1-conference-paper-2-journal-article&#34;&gt;Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1&gt;
+
+&lt;h1 id=&#34;3-preprint-working-paper-4-report-5-book-6-book-section&#34;&gt;3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1&gt;
+
+&lt;h1 id=&#34;7-thesis-8-patent&#34;&gt;7 = Thesis; 8 = Patent&lt;/h1&gt;
+
+&lt;p&gt;publication_types: [&amp;ldquo;1&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
+
+&lt;p&gt;publication: Conference on Artificial Intelligence and Statistics (AISTATS), 2020
+publication_short: In &lt;em&gt;AISTATS&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;abstract: &amp;ldquo;We consider robust optimization problems, where the goal is to optimize an unknown objective function against the worst-case realization of an uncertain parameter. For this setting, we design a novel sample-efficient algorithm GP-MRO, which sequentially learns about the unknown objective from noisy point evaluations. GP-MRO seeks to discover a robust and randomized mixed strategy, that maximizes the worst-case expected objective value. To achieve this, it combines techniques from online learning with nonparametric confidence bounds from Gaussian processes. Our theoretical results characterize the number of samples required by GP-MRO to discover a robust near-optimal mixed strategy for different GP kernels of interest. We experimentally demonstrate the performance of our algorithm on synthetic datasets and on human-assisted trajectory planning tasks for autonomous vehicles. In our simulations, we show that robust deterministic strategies can be overly conservative, while the mixed strategies found by GP-MRO significantly improve the overall performance.&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
+
+&lt;p&gt;summary: Conference on Artificial Intelligence and Statistics (AISTATS), 2020&lt;/p&gt;
+
+&lt;h1 id=&#34;tags&#34;&gt;tags:&lt;/h1&gt;
+
+&lt;h1 id=&#34;source-themes&#34;&gt;- Source Themes&lt;/h1&gt;
+
+&lt;h1 id=&#34;featured-true&#34;&gt;featured: true&lt;/h1&gt;
+
+&lt;p&gt;url_pdf: &amp;ldquo;pdf/sessa2020mixed.pdf&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+
+&lt;h1 id=&#34;to-use-add-an-image-named-featured-jpg-png-to-your-page-s-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+
+&lt;p&gt;image:
+  caption: &amp;ldquo;
+  focal_point: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;preview-only-false&#34;&gt;preview_only: false&lt;/h2&gt;
+
+&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
+
+ --&gt;
 </description>
     </item>
     
