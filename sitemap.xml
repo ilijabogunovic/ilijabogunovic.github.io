@@ -119,6 +119,17 @@
   </url>
   
   <url>
+    <loc>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/p.g.-sessa/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ilijabogunovic.github.io/publication/distributionally_robust_bayesian_optimization/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -138,12 +149,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/no_regret_learning_in_unknown_games/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/p.g.-sessa/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -409,11 +414,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/near_optimally_teaching_the_crowd_to_classify/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/mixed_strategies_for_robust_optimization_of-unknown_objectives/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
