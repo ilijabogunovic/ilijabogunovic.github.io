@@ -6,10 +6,37 @@
     <description>Recent content in 1 on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ilijabogunovic.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Submodular Resource Allocation with Applications to Rebalancing Shared Mobility Systems</title>
+      <link>https://ilijabogunovic.github.io/publication/online_submodular_resource_allocation_with_applications_to_rebalancing_shared_-mobility_systems/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/online_submodular_resource_allocation_with_applications_to_rebalancing_shared_-mobility_systems/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
+
+ --&gt;
+</description>
+    </item>
     
     <item>
       <title>Combining Pessimism with Optimism for Robust and Efficient Model-Based Deep Reinforcement Learning</title>
