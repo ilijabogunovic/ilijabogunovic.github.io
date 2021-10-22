@@ -157,7 +157,7 @@
 &lt;!-- My research focus is on machine learning algorithms that are theoretically well-founded, robust and practically applicable. I am particularly interested in problems in sequential decision making and topics such as bandits, Bayesian optimization, submodular optimization, 
 and reinforcement learning. --&gt;
 
-&lt;div style=&#34;text-align: justify;&#34;&gt; My main research interests are in sequential decision making under uncertainty. In particular, I focus on the question of how to design robust decision-making systems. This requires a combination of ideas from different topics such as bandits, Bayesian optimization, reinforcement learning, experimental design, robust optimization.&lt;/div&gt;
+&lt;div style=&#34;text-align: justify;&#34;&gt; My main research interests are in sequential decision making under uncertainty. In particular, I focus on the question of how to design &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; robust and reliable decision-making &lt;/a&gt; systems. This requires a combination of ideas from different topics such as bandits, Bayesian optimization, reinforcement learning, experimental design, robust optimization.&lt;/div&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;
 I received my PhD degree from &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;Ecole Polytechnique Federale de Lausanne (EPFL)&lt;/a&gt; where I was supervised by Prof. &lt;a href=&#34;https://lions.epfl.ch/volkan.cevher&#34;&gt;Volkan Cevher&lt;/a&gt;.
