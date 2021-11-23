@@ -57,43 +57,39 @@
 
 &lt;h2 id=&#34;machine-learning-phd-position&#34;&gt;Machine Learning PhD Position&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Electronic and Electrical Engineering department, University College London&lt;/li&gt;
-&lt;li&gt;Start Date: April, 2022 (position may begin later, based on agreement)&lt;/li&gt;
-&lt;li&gt;Closing Date: None (the position will remain open until it is filled)&lt;/li&gt;
-&lt;li&gt;Duration: A four year fully-funded (home rate)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- - Electronic and Electrical Engineering department, University College London
+- Start Date: April, 2022 (position may begin later, based on agreement)
+- Closing Date: None (the position will remain open until it is filled)
+- Duration: A four year fully-funded (home rate)
 
-&lt;h6 id=&#34;description&#34;&gt;Description:&lt;/h6&gt;
-
+###### Description: 
 &lt;div align=&#34;justify&#34;&gt;
     The new machine learning research group led by Dr Ilija Bogunovic at the Electronic and Electrical Engineering department (at UCL) is looking for a motivated PhD student to work in the areas of machine learning and AI. The student will work on algorithms, real-world applications, and/or theory of modern interactive learning systems, with research topics potentially including the following:
 &lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Learning and sequential decision making under uncertainty (e.g., reinforcement learning, Bayesian optimization, bandits and exploration),&lt;/li&gt;
-&lt;li&gt;Reliability, robustness, and sample-efficiency considerations in algorithmic data-driven decision making,&lt;/li&gt;
-&lt;li&gt;Multi-agent reinforcement learning (MARL) and games,&lt;/li&gt;
-&lt;li&gt;Large-scale real-world experiment design and active learning.&lt;/br&gt;&lt;/li&gt;
-&lt;/ul&gt;
+- Learning and sequential decision making under uncertainty (e.g., reinforcement learning, Bayesian optimization, bandits and exploration),
+- Reliability, robustness, and sample-efficiency considerations in algorithmic data-driven decision making,
+- Multi-agent reinforcement learning (MARL) and games, 
+- Large-scale real-world experiment design and active learning.&lt;/br&gt;
 
-&lt;p&gt;For more information on my research, please see my &lt;a href=&#34;ilijabogunovic.com/#publications&#34;&gt; publications&lt;/a&gt;.&lt;/p&gt;
+For more information on my research, please see my &lt;a href=&#34;ilijabogunovic.com/#publications&#34;&gt; publications&lt;/a&gt;.   
 
 &lt;div align=&#34;justify&#34;&gt;
 What does the PhD project entail? The student will conduct research in the field of machine learning with the emphasis on modern algorithms and applications; write research papers and present results at leading international ML conferences, e.g., NeurIPS, ICML, ICLR, AISTATS, UAI, etc.; collaborate with internal and international teams of research scientists. 
 &lt;/div&gt;
 
-&lt;h6 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h6&gt;
+###### How to apply: 
 
-&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;
-    Applications must be made using the &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/phd-machine-learning&#34;&gt; UCL online application system&lt;/a&gt; (see the full advert) by using the UCL postgraduate study application form. Please submit your CV, transcripts (both undergraduate and postgraduate), your latest thesis (and/or one of your publications if applicable), and a short (up to one page) cover letter explaining why you think you are a suitable candidate for this post. The short-listed candidates might be further required to provide contact info (no direct recommendation letters) for peers that can recommend them.&lt;br /&gt;
+&lt;div align=&#34;justify&#34;&gt;
+    Applications must be made using the &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/phd-machine-learning&#34;&gt; UCL online application system&lt;/a&gt; (see the full advert) by using the UCL postgraduate study application form. Please submit your CV, transcripts (both undergraduate and postgraduate), your latest thesis (and/or one of your publications if applicable), and a short (up to one page) cover letter explaining why you think you are a suitable candidate for this post. The short-listed candidates might be further required to provide contact info (no direct recommendation letters) for peers that can recommend them.  
 &lt;/div&gt;
 &lt;br/&gt;
 &lt;p align=&#34;justify&#34;&gt;
 The candidate should meet the entry requirements for PhD programmes at UCL EEE. Additional requirements include an outstanding academic record and strong mathematical background. Experience with research and coding is a plus. Also desirable: prior knowledge in machine learning, AI, optimization, statistics.
-&lt;/p&gt;&lt;/p&gt;
+&lt;/p&gt;
 
-&lt;p&gt;For inquiries about the position, please reach out to me at ilijab@ethz.ch.&lt;/p&gt;
+For inquiries about the position, please reach out to me at ilijab@ethz.ch.
+ --&gt;
 
 &lt;!-- About UCL and the Department of Electronic and Electrical Engineering: University College London (UCL) was founded in 1826 as the third university in England, after Oxford and Cambridge. UCL is the first university in England to admit students of any race, class or religion, and the first to welcome women on equal terms with men. UCL is organized into 11 constituent faculties, within which there are over 100 departments, institutes and research centres. UCL has 983 professors and more than 7000 academic staffs who are dedicated to research and teaching of the highest standards. Its student community is almost 36,000, the largest in the UK. There are 29 Nobel Prize winners and three Fields medalists amongst UCL’s alumni and current and former staff. UCL is the top rated university in the UK for research excellence (REF2014). It has a strong tradition and large knowledge base in medical research with a dedicated institute on Healthcare Engineering and 10+ hospitals. UCL has world-class support for researchers and has been voted the best place for postdoctoral researchers to work for consecutive years by The Scientist magazine. The main campus of UCL is located in central London, close to British Museum, West-End and Thames River. 
 
