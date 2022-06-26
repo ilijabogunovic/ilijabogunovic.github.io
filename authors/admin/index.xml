@@ -311,7 +311,7 @@ rm Untitled.md
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/admin/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;  I am a lecturer (assistant professor) at &lt;a href=&#34;https://www.ucl.ac.uk/&#34;&gt; University College London (UCL)&lt;/a&gt; &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/&#34;&gt;EEE&lt;/a&gt;. My research is centered around data-efficient interactive machine learning, sequential decision making, and &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; reliability and robustness &lt;/a&gt;
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt; I am an Assistant Professor (or UK Lecturer) at &lt;a href=&#34;https://www.ucl.ac.uk/&#34;&gt; University College London (UCL)&lt;/a&gt; &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/&#34;&gt;EEE&lt;/a&gt;. My research is centered around data-efficient interactive machine learning, sequential decision making, and &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; reliability and robustness &lt;/a&gt;
 considerations in data-driven algorithms. I am particularly excited about topics such as active learning, Bayesian and bandit optimization, reinforcement learning, multi-agent learning, experiment design, and &lt;a href=&#34;https://realworldml.github.io/&#34;&gt; real-world applications &lt;/a&gt; of such learning-based decision-making methods. 
 
 
@@ -322,7 +322,9 @@ considerations in data-driven algorithms. I am particularly excited about topics
 Before joining UCL, I completed my postdoc at ETH Zurich (advisor Andreas Krause) and PhD at EPFL (advisor Volkan Cevher). I also spent summers interning at MIT (with Stefanie Jegelka) and Twitter Cortex.&lt;/div&gt; 
 
 &lt;p&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;
-&lt;font style=&#34;color:rgb(139, 157, 195)&#34;&gt;NEWS!&lt;/font&gt; I have an open PhD student position. If you are interested in working with me, more info can be found &lt;a href=&#34;./openings&#34;&gt;here&lt;/a&gt;.
+&lt;font style=&#34;color:rgb(139, 157, 195)&#34;&gt;
+I am actively looking for &lt;u&gt;motivated students&lt;/u&gt; at undergrad, MSc, and PhD levels, that are excited about active learning, RL, and decision-making. Take a look at the publications section to get a sense of the type of research I am interested in. Feel free to reach out by sending a short email (with a summary of your interests + CV)!&lt;/font&gt;
+&lt;!--I have an open PhD student position. If you are interested in working with me, more info can be found &lt;a href=&#34;./openings&#34;&gt;here&lt;/a&gt;.--&gt;
 &lt;div style=&#34;text-align: justify;&#34;&gt;&lt;/p&gt;
 
 &lt;!-- My research focus is on machine learning algorithms that are theoretically well-founded, robust and practically applicable. I am particularly interested in problems in sequential decision making and topics such as bandits, Bayesian optimization, submodular optimization, 
