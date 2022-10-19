@@ -131,7 +131,7 @@ I trained Judo since I was six. In 2008, I became a national senior champion and
 &lt;li&gt;Yuxuan Sun (co-supervised with Yiannis Andreopulos)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;current-project-students&#34;&gt;Current Project Students&lt;/h2&gt;
+&lt;h2 id=&#34;project-students&#34;&gt;Project Students&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Janik Tadeusz (MSc, ETH Zurich)&lt;/li&gt;
@@ -199,6 +199,30 @@ I trained Judo since I was six. In 2008, I became a national senior champion and
 &lt;/ul&gt;
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movement Penalized Bayesian Optimization with Application to Wind Energy Systems</title>
+      <link>https://ilijabogunovic.github.io/publication/movement_penalized_bayesian_optimization_with_application_to_wind_energy_-systems/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/movement_penalized_bayesian_optimization_with_application_to_wind_energy_-systems/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
