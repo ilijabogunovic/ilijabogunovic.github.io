@@ -46,25 +46,83 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+    <loc>https://ilijabogunovic.github.io/publication_types/3/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/i.-char/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/j.-kirschner/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/j.-schneider/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/near_optimal_policy_identification_in_active_rl/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/v.-mehta/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/w.-neiswanger/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/x.-li/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -78,17 +136,6 @@
     <loc>https://ilijabogunovic.github.io/authors/p.-g.-sessa/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -145,12 +192,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/risk_averse-_heteroscedastic_bayesian-_optimization/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/3/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -255,12 +296,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/distributionally_robust_bayesian_optimization/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/j.-kirschner/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
