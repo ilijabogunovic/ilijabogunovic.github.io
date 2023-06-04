@@ -311,15 +311,19 @@ rm Untitled.md
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/authors/admin/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt; I am an Assistant Professor (or UK Lecturer) at &lt;a href=&#34;https://www.ucl.ac.uk/&#34;&gt; University College London (UCL)&lt;/a&gt; &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/&#34;&gt;EEE&lt;/a&gt;. My research is centered around data-efficient interactive machine learning, sequential decision making, and &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; reliability and robustness &lt;/a&gt;
-considerations in data-driven algorithms. I am particularly excited about topics such as active learning, Bayesian and bandit optimization, reinforcement learning, multi-agent learning, experiment design, and &lt;a href=&#34;https://realworldml.github.io/&#34;&gt; real-world applications &lt;/a&gt; of such learning-based decision-making methods. 
+      <description>&lt;p&gt;&lt;div style=&#34;text-align: justify;&#34;&gt; I am an Assistant Professor (or UK Lecturer) at &lt;a href=&#34;https://www.ucl.ac.uk/&#34;&gt; University College London (UCL)&lt;/a&gt; &lt;a href=&#34;https://www.ucl.ac.uk/electronic-electrical-engineering/&#34;&gt;EEE&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;My research primarily focuses on algorithmic decision-making in the context of robust, reliable, and safe AI. I am interested in questions such as: How can we efficiently make decisions and discover policies, designs, and solutions that can withstand distributional shifts (sim-to-real gap), corruptions, adversaries, and model misspecifications? How can we exploit the potential of foundation models to facilitate robust and aligned decision-making? In the context of real-world machine learning, how can we realize reliability and robustness considerations within interactive data-driven algorithms (for reinforcement learning, Bayesian optimization, experiment design, and multi-agent learning)?&lt;/p&gt;
+
+&lt;!-- My research is centered around data-efficient interactive machine learning, sequential decision making, and &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; reliability and robustness &lt;/a&gt;
+considerations in data-driven algorithms. I am particularly excited about topics such as active learning, Bayesian and bandit optimization, reinforcement learning, multi-agent learning, experiment design, and &lt;a href=&#34;https://realworldml.github.io/&#34;&gt; real-world applications &lt;/a&gt; of such learning-based decision-making methods. 
+ --&gt;
 
 &lt;!--  My main research interests are in sequential decision making. In particular, I focus on the question of how to design &lt;a href=&#34;https://github.com/ilijabogunovic/Robust-BO/blob/main/README.md&#34;&gt; robust and reliable decision-making &lt;/a&gt; systems. This requires a combination of ideas from different topics such as bandits, Bayesian optimization, reinforcement learning, experimental design, robust optimization.&lt;/div&gt; --&gt;
 
-&lt;br/&gt; &lt;br/&gt;       
+&lt;!-- &lt;br/&gt; &lt;br/&gt;       
 &lt;div style=&#34;text-align: justify;&#34;&gt;
-Before joining UCL, I completed my postdoc at ETH Zurich (with A. Krause) and PhD (advisor V. Cevher) at EPFL. I also spent summers interning at MIT (with S. Jegelka) and Twitter Cortex.&lt;/div&gt; 
+Before joining UCL, I completed my postdoc at ETH Zurich (with A. Krause) and PhD (advisor V. Cevher) at EPFL. I also spent summers interning at MIT (with S. Jegelka) and Twitter Cortex.&lt;/div&gt;  --&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;
 &lt;font style=&#34;color:rgb(139, 157, 195)&#34;&gt;
