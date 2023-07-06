@@ -46,13 +46,77 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://ilijabogunovic.github.io/publication_types/3/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilijabogunovic.github.io/authors/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/b.-pasztor/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/c.-francesco/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/k.-zhang/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/m.-jusup/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication/safe_modelbased_multiagent_mfrl/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/authors/t.-janik/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilijabogunovic.github.io/publication_types/1/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,12 +139,6 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/authors/i.-bogunovic/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ilijabogunovic.github.io/authors/j.-kirschner/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -93,25 +151,8 @@
   </url>
   
   <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ilijabogunovic.github.io/authors/t.-volodymyr/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/a.-krause/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,18 +256,6 @@
   <url>
     <loc>https://ilijabogunovic.github.io/publication/risk_averse-_heteroscedastic_bayesian-_optimization/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/publication_types/3/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilijabogunovic.github.io/authors/b.-pasztor/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
