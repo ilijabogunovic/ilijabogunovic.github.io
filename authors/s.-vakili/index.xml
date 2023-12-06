@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Ilija Bogunovic</title>
-    <link>https://ilijabogunovic.github.io/publication_types/3/</link>
-    <description>Recent content in 3 on Ilija Bogunovic</description>
+    <title>S. Vakili on Ilija Bogunovic</title>
+    <link>https://ilijabogunovic.github.io/authors/s.-vakili/</link>
+    <description>Recent content in S. Vakili on Ilija Bogunovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ilijabogunovic.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ilijabogunovic.github.io/authors/s.-vakili/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -65,78 +65,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ilijabogunovic.github.io/publication/sample_efficient_rl_from_human_feedback_via_active_exploration/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Distributionally Robust Model-based Reinforcement Learning with Large State Spaces</title>
-      <link>https://ilijabogunovic.github.io/publication/distributionally_robust_model_based_rl/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/publication/distributionally_robust_model_based_rl/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Safe Model-Based Multi-Agent Mean-Field Reinforcement Learning</title>
-      <link>https://ilijabogunovic.github.io/publication/safe_modelbased_multiagent_mfrl/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/publication/safe_modelbased_multiagent_mfrl/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Efficient Model-Based Multi-Agent Mean-Field Reinforcement Learning</title>
-      <link>https://ilijabogunovic.github.io/publication/efficient_modelbased_multi_agent_mean_field_rl/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilijabogunovic.github.io/publication/efficient_modelbased_multi_agent_mean_field_rl/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
