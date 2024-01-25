@@ -118,36 +118,45 @@ The candidate should meet the entry requirements for PhD programmes at UCL EEE. 
   &lt;img src=&#34;../photos/group_photo.jpg&#34; alt=&#34;Team Group Photo&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h2&gt;
+
+&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align:  center;&#34;&gt;
+  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+    &lt;img src=&#34;../photos/ib.jpg&#34; alt=&#34;Ilija Bogunovic&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+    &lt;p&gt;Ilija Bogunovic&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt; Lecturer&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;phd-students&#34;&gt;PhD Students&lt;/h2&gt;
 
 &lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align:  center;&#34;&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/wb.jpg&#34; alt=&#34;William Bankes&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;William Bankes&lt;/p&gt; 
+    &lt;p&gt;William Bankes&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/sr.jpg&#34; alt=&#34;Shyam Sundhar Ramesh&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Shyam Sundhar Ramesh&lt;/p&gt;
+    &lt;p&gt;Shyam Sundhar Ramesh&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/xt.jpg&#34; alt=&#34;Xiaohang Tang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Xiaohang Tang&lt;/p&gt;
+    &lt;p&gt;Xiaohang Tang&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/tb.jpg&#34; alt=&#34;Theo Brown&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Theo Brown (joint with UKAEA)&lt;/p&gt;
+    &lt;p&gt;Theo Brown &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with UKAEA)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/hm.jpg&#34; alt=&#34;Hamza Merzic&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Hamza Merzic (joint with Google DeepMind) &lt;/p&gt;
+    &lt;p&gt;Hamza Merzic &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt;  &lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/sh.jpg&#34; alt=&#34;Seong Ho&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Seong Ho (with Brooks Paige) &lt;/p&gt;
+    &lt;p&gt;Seong Ho &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (with Brooks Paige)&lt;/span&gt;  &lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
     &lt;img src=&#34;../photos/zw.jpg&#34; alt=&#34;Zhe Wang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Zhe Wang (joint with Google DeepMind) &lt;/p&gt;
+    &lt;p&gt;Zhe Wang &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt; &lt;/p&gt;
   &lt;/div&gt;
 
 &lt;p&gt;&lt;!-- Add more students here following the same structure --&gt;
