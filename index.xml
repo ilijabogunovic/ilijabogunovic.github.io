@@ -122,49 +122,115 @@ The candidate should meet the entry requirements for PhD programmes at UCL EEE. 
 
 &lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align:  center;&#34;&gt;
   &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/ib.jpg&#34; alt=&#34;Ilija Bogunovic&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+    &lt;img src=&#34;../photos/ib.jpg&#34; alt=&#34;Ilija Bogunovic&#34; style=&#34;width: calc(25% - 20px); height: auto;&#34;&gt;
     &lt;p&gt;Ilija Bogunovic&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt; Lecturer&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;phd-students&#34;&gt;PhD Students&lt;/h2&gt;
 
-&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align:  center;&#34;&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/wb.jpg&#34; alt=&#34;William Bankes&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align: center;&#34;&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/wb.jpg&#34; alt=&#34;William Bankes&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
     &lt;p&gt;William Bankes&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/sr.jpg&#34; alt=&#34;Shyam Sundhar Ramesh&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/sr.jpg&#34; alt=&#34;Shyam Sundhar Ramesh&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
     &lt;p&gt;Shyam Sundhar Ramesh&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/xt.jpg&#34; alt=&#34;Xiaohang Tang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/xt.jpg&#34; alt=&#34;Xiaohang Tang&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
     &lt;p&gt;Xiaohang Tang&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/tb.jpg&#34; alt=&#34;Theo Brown&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Theo Brown &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with UKAEA)&lt;/span&gt;&lt;/p&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/tb.jpg&#34; alt=&#34;Theo Brown&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt;Theo Brown &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student &lt;br/&gt; (w UKAEA)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/hm.jpg&#34; alt=&#34;Hamza Merzic&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Hamza Merzic &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt;  &lt;/p&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/hm.jpg&#34; alt=&#34;Hamza Merzic&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt;Hamza Merzic &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student &lt;br/&gt; (w Google DeepMind)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/sh.jpg&#34; alt=&#34;Seong Ho&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Seong Ho &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (with Brooks Paige)&lt;/span&gt;  &lt;/p&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/sh.jpg&#34; alt=&#34;Seong Ho&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt;Seong Ho &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student &lt;br/&gt; (w Brooks Paige)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
-  &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
-    &lt;img src=&#34;../photos/zw.jpg&#34; alt=&#34;Zhe Wang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
-    &lt;p&gt;Zhe Wang &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt; &lt;/p&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/zw.jpg&#34; alt=&#34;Zhe Wang&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt;Zhe Wang &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student &lt;br/&gt; (w Google DeepMind)&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;  
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/ag.png&#34; alt=&#34;Ahmet H. Guzel&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt; Ahmet H. Guzel &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student &lt;br/&gt; (w Jack Parker-Holder)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
 
 &lt;p&gt;&lt;!-- Add more students here following the same structure --&gt;
 &lt;/div&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;project-students&#34;&gt;Project Students&lt;/h2&gt;
+&lt;h2 id=&#34;research-visitors&#34;&gt;Research Visitors&lt;/h2&gt;
+
+&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align: center;&#34;&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/sy.jpg&#34; alt=&#34;Sangwoong Yoon&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt;Dr. Sangwoong Yoon&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;Postoctoral Researcher &lt;/br&gt;(KIAS)&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
+    &lt;img src=&#34;../photos/ap.jpg&#34; alt=&#34;Anja Petrovic&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;p&gt; Anja Petrovic &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;Research Student &lt;/br&gt; (University of Oxford)&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  
+
+&lt;p&gt;&lt;!-- Add more students here following the same structure --&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;!--   ## PhD Students
+  &lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align:  center;&#34;&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/wb.jpg&#34; alt=&#34;William Bankes&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;William Bankes&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/sr.jpg&#34; alt=&#34;Shyam Sundhar Ramesh&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Shyam Sundhar Ramesh&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/xt.jpg&#34; alt=&#34;Xiaohang Tang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Xiaohang Tang&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/tb.jpg&#34; alt=&#34;Theo Brown&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Theo Brown &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with UKAEA)&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/hm.jpg&#34; alt=&#34;Hamza Merzic&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Hamza Merzic &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt;  &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/sh.jpg&#34; alt=&#34;Seong Ho&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Seong Ho &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (with Brooks Paige)&lt;/span&gt;  &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/zw.jpg&#34; alt=&#34;Zhe Wang&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt;Zhe Wang &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (joint with Google DeepMind)&lt;/span&gt; &lt;/p&gt;
+    &lt;/div&gt;  
+    &lt;div style=&#34;flex: 1; min-width: 300px;&#34;&gt;
+      &lt;img src=&#34;../photos/ag.png&#34; alt=&#34;Ahmet H. Guzel&#34; style=&#34;width: 250px; height: auto;&#34;&gt;
+      &lt;p&gt; Ahmet H. Guzel &lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;PhD Student (with Jack Parker-Holder)&lt;/span&gt; &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Add more students here following the same structure --&gt;
+
+&lt;p&gt;&lt;!-- &lt;/div&gt; --&gt;&lt;/p&gt;
+
+&lt;!-- ## Current Project Students    
+ --&gt;
+
+&lt;h2 id=&#34;former-project-students&#34;&gt;Former Project Students&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Janik Tadeusz (MSc, ETH Zurich)&lt;/li&gt;
+&lt;li&gt;Wei Wang (MSc, UCL)&lt;/li&gt;
+&lt;li&gt;Shyam Sundhar Ramesh (MSc, ETH Zurich)&lt;/li&gt;
+&lt;li&gt;Xiang Li (MSc, ETH Zurich)&lt;/li&gt;
 &lt;li&gt;Miles Wang-Henderson (MSc, ETH Zurich)&lt;/li&gt;
 &lt;li&gt;Jin Heng (MSc EEE Integrated ML Systems, UCL)&lt;/li&gt;
 &lt;li&gt;Soyuer Bartu (MSc, ETH Zurich)&lt;/li&gt;
@@ -174,15 +240,6 @@ The candidate should meet the entry requirements for PhD programmes at UCL EEE. 
 &lt;li&gt;Ziyu Hu (MSc EEE Integrated ML Systems, UCL)&lt;/li&gt;
 &lt;li&gt;Noiato Alessandro (MSc, ETH Zurich)&lt;/li&gt;
 &lt;li&gt;George Hughes (MSc CS ML, UCL)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;former-project-students&#34;&gt;Former Project Students&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Janik Tadeusz (MSc, ETH Zurich)&lt;/li&gt;
-&lt;li&gt;Wei Wang (MSc, UCL)&lt;/li&gt;
-&lt;li&gt;Shyam Sundhar Ramesh (MSc, ETH Zurich)&lt;/li&gt;
-&lt;li&gt;Xiang Li (MSc, ETH Zurich)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;former-phd-students&#34;&gt;Former PhD Students&lt;/h2&gt;
