@@ -171,7 +171,7 @@ The candidate should meet the entry requirements for PhD programmes at UCL EEE. 
 &lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px; text-align: center;&#34;&gt;
   &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
     &lt;img src=&#34;../photos/sy.jpg&#34; alt=&#34;Sangwoong Yoon&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
-    &lt;p&gt;Dr. Sangwoong Yoon&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;Postoctoral Researcher &lt;/br&gt;(KIAS)&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;Dr. Sangwoong Yoon&lt;br&gt;&lt;span style=&#34;font-size: smaller; color: gray;&#34;&gt;Postdoctoral Researcher &lt;/br&gt;(KIAS)&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&#34;width: calc(25% - 20px); margin-bottom: 20px;&#34;&gt;
     &lt;img src=&#34;../photos/ap.jpg&#34; alt=&#34;Anja Petrovic&#34; style=&#34;width: 100%; height: auto;&#34;&gt;
@@ -307,6 +307,30 @@ The candidate should meet the entry requirements for PhD programmes at UCL EEE. 
 &lt;/ul&gt;
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group Robust Preference Optimization in Reward-free RLHF</title>
+      <link>https://ilijabogunovic.github.io/publication/grpo/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilijabogunovic.github.io/publication/grpo/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
